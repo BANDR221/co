@@ -1,8 +1,13 @@
+Origin: Repo X.BANDR
 
-Origin: test X.BANDR
 Label: X.BANDR
+
 Suite: stable
+
 Version: 1.0
+
 Architectures: iphoneos-arm
+
 Components: main
-Description: crak
+
+Description: repo
