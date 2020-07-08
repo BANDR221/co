@@ -1,8 +1,8 @@
 
-Origin: test firepo
-Label: firepo
+Origin: test X.BANDR
+Label: X.BANDR
 Suite: stable
 Version: 1.0
 Architectures: iphoneos-arm
 Components: main
-Description: ادوات اسطورية 
+Description: crak
